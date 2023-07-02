@@ -8,8 +8,13 @@ public class PlayerController : MonoBehaviour
     private float _horizontalInput;
     private float _forwardInput;
     
+    [SerializeField] Camera mainCamera;
+    [SerializeField] Camera hoodCamera;
+    public KeyCode switchKey;
+    
     void Update()
     {
+        // Get the user's input
         _horizontalInput = Input.GetAxis("Horizontal");
         _forwardInput = Input.GetAxis("Vertical");
         
@@ -22,5 +27,13 @@ public class PlayerController : MonoBehaviour
         /* slide the vehicle left and right
         transform.Translate(Vector3.right * Time.deltaTime * turnSpeed * horizontalInput);
         */
+        
+        // Switch between cameras
+        if(Input.GetKeyDown(switchKey))
+        {
+            mainCamera.enabled = !mainCamera.enabled;
+            hoodCamera.enabled = !hoodCamera.enabled;
+        }
+        
     }
 }

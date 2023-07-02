@@ -4,13 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e01c78fc-7f6d-4ec9-a65c-0d6485ecfe29" name="Changes" comment="ys">
-      <change afterPath="$PROJECT_DIR$/Assets/Challenge 1/Scripts/Propeller.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Challenge 1/Scripts/Propeller.cs.meta" afterDir="false" />
+    <list default="true" id="e01c78fc-7f6d-4ec9-a65c-0d6485ecfe29" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Obstacle.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Obstacle.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/OncomingVehicle.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/OncomingVehicle.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Camera switcher.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Camera switcher.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Obstacle pyramids 1.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Obstacle pyramids 1.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Oncoming vehicles.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Oncoming vehicles.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Prototype 2.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Prototype 2.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/MoveForward.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/MoveForward.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Prototype_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Prototype_1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenge 1/Challenge 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Challenge 1/Challenge 1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenge 1/Scripts/FollowPlayerX.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Challenge 1/Scripts/FollowPlayerX.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Challenge 1/Scripts/PlayerControllerX.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Challenge 1/Scripts/PlayerControllerX.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Prototype 1.unity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Prototype 1.unity.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/_Scripts/Player/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/Player/PlayerController.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,11 +33,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -34,9 +46,25 @@
       </UrlAndAccount>
     </option>
   </component>
+  <component name="HighlightingMarkupGrave">
+    <markupCoffin contentHash="-1788725967" url="file://$PROJECT_DIR$/Assets/_Scripts/Player/PlayerController.cs">
+      <highlighter start="33" end="49" layer="4000" target="0">
+        <option name="myExternalName" value="WARNING_ATTRIBUTES" />
+      </highlighter>
+      <highlighter start="86" end="92" layer="3999" target="0">
+        <option name="myExternalName" value="SUGGESTION" />
+      </highlighter>
+      <highlighter start="117" end="127" layer="3999" target="0">
+        <option name="myExternalName" value="SUGGESTION" />
+      </highlighter>
+      <highlighter start="564" end="621" layer="3000" target="0">
+        <option name="myExternalName" value="UNITY_INEFFICIENT_MULTIPLICATION_ORDER" />
+      </highlighter>
+    </markupCoffin>
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Challenge 1/Scripts/FollowPlayerX.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock://C:/Users/Shadow/Documents/Projects/Unity Projects/Unity Learn/Prototype_1/Assets/_Scripts/Camera/FollowPlayer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scripts/MoveForward.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectId" id="2RIdPhKEQ8aVrMzeqBXlRJ4mNsr" />
@@ -50,6 +78,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "PROJECT_TOOLBAR_COLOR": "52b398",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -59,7 +88,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.editor",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -123,7 +152,9 @@
       <workItem from="1687292364440" duration="203000" />
       <workItem from="1687292584502" duration="886000" />
       <workItem from="1687293494665" duration="1048000" />
-      <workItem from="1687369785224" duration="2866000" />
+      <workItem from="1687369785224" duration="3541000" />
+      <workItem from="1688317531855" duration="36000" />
+      <workItem from="1688317692464" duration="1771000" />
     </task>
     <task id="LOCAL-00001" summary="0">
       <option name="closed" value="true" />
@@ -149,7 +180,15 @@
       <option name="project" value="LOCAL" />
       <updated>1687371253696</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="fixed the plane scene">
+      <option name="closed" value="true" />
+      <created>1687373665463</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1687373665463</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,7 +214,8 @@
     <MESSAGE value="0" />
     <MESSAGE value="Challenge 1" />
     <MESSAGE value="ys" />
-    <option name="LAST_COMMIT_MESSAGE" value="ys" />
+    <MESSAGE value="fixed the plane scene" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed the plane scene" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
