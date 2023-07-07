@@ -5,25 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e01c78fc-7f6d-4ec9-a65c-0d6485ecfe29" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Obstacle.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Obstacle.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/OncomingVehicle.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/OncomingVehicle.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Camera switcher.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Camera switcher.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Obstacle pyramids 1.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Obstacle pyramids 1.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Oncoming vehicles.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Oncoming vehicles.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Prototype 2.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Prototype 2.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/MoveForward.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/_Scripts/MoveForward.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Player.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Player.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Game.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Game.unity.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Prototype_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Prototype_1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Prototype 1.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Prototype 1.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Scripts/Player/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scripts/Player/PlayerController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Course Library/Vehicles/Veh_Ute_Red_Z.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Course Library/Vehicles/Veh_Ute_Red_Z.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/OncomingVehicle.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/OncomingVehicle.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Camera switcher.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Camera switcher.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Oncoming vehicles.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Oncoming vehicles.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Prototype 2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Prototype 2.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,18 +38,12 @@
     </option>
   </component>
   <component name="HighlightingMarkupGrave">
-    <markupCoffin contentHash="-1788725967" url="file://$PROJECT_DIR$/Assets/_Scripts/Player/PlayerController.cs">
-      <highlighter start="33" end="49" layer="4000" target="0">
+    <markupCoffin contentHash="1059517692" url="file://$PROJECT_DIR$/Assets/_Scripts/Camera/FollowPlayer.cs">
+      <highlighter start="33" end="45" layer="4000" target="0">
         <option name="myExternalName" value="WARNING_ATTRIBUTES" />
       </highlighter>
-      <highlighter start="86" end="92" layer="3999" target="0">
+      <highlighter start="132" end="139" layer="3999" target="0">
         <option name="myExternalName" value="SUGGESTION" />
-      </highlighter>
-      <highlighter start="117" end="127" layer="3999" target="0">
-        <option name="myExternalName" value="SUGGESTION" />
-      </highlighter>
-      <highlighter start="564" end="621" layer="3000" target="0">
-        <option name="myExternalName" value="UNITY_INEFFICIENT_MULTIPLICATION_ORDER" />
       </highlighter>
     </markupCoffin>
   </component>
@@ -154,7 +139,7 @@
       <workItem from="1687293494665" duration="1048000" />
       <workItem from="1687369785224" duration="3541000" />
       <workItem from="1688317531855" duration="36000" />
-      <workItem from="1688317692464" duration="1771000" />
+      <workItem from="1688317692464" duration="3023000" />
     </task>
     <task id="LOCAL-00001" summary="0">
       <option name="closed" value="true" />
